@@ -1,0 +1,114 @@
+[
+  {
+    "id": "0",
+    "img": "https://webdev.rv-designs.nl/images/phones/iphone1.png",
+    "name": "Iphone 13",
+    "link": "#",
+    "color": "red"
+  },
+  {
+    "id": "1",
+    "img": "https://webdev.rv-designs.nl/images/phones/iphone2.png",
+    "name": "Galaxy S21",
+    "link": "#",
+    "color": "green"
+  },
+  {
+    "id": "2",
+    "img": "https://webdev.rv-designs.nl/images/phones/iphone3.png",
+    "name": "Iphone 11",
+    "link": "#",
+    "color": "pink"
+  },
+  {
+    "id": "3",
+    "img": "https://webdev.rv-designs.nl/images/phones/iphone4.png",
+    "name": "Huawei p30 pro",
+    "link": "#",
+    "color": "red"
+  },
+  {
+    "id": "4",
+    "img": "https://webdev.rv-designs.nl/images/phones/iphone1.png",
+    "name": "Galaxy S20",
+    "link": "#",
+    "color": "green"
+  },
+  {
+    "id": "5",
+    "img": "https://webdev.rv-designs.nl/images/phones/iphone2.png",
+    "name": "Iphone 12",
+    "link": "#",
+    "color": "pink"
+  },
+  {
+    "id": "6",
+    "img": "https://webdev.rv-designs.nl/images/phones/iphone3.png",
+    "name": "Samsung A12",
+    "link": "#",
+    "color": "purple"
+  },
+  {
+    "id": "7",
+    "img": "https://webdev.rv-designs.nl/images/phones/iphone4.png",
+    "name": "Mate 20 pro",
+    "link": "#",
+    "color": "gray"
+  },
+  {
+    "id": "8",
+    "img": "https://webdev.rv-designs.nl/images/phones/iphone1.png",
+    "name": "Iphone 13",
+    "link": "#",
+    "color": "red"
+  },
+  {
+    "id": "9",
+    "img": "https://webdev.rv-designs.nl/images/phones/iphone2.png",
+    "name": "Galaxy S21",
+    "link": "#",
+    "color": "green"
+  },
+  {
+    "id": "10",
+    "img": "https://webdev.rv-designs.nl/images/phones/iphone3.png",
+    "name": "Iphone 11",
+    "link": "#",
+    "color": "pink"
+  },
+  {
+    "id": "11",
+    "img": "https://webdev.rv-designs.nl/images/phones/iphone4.png",
+    "name": "Huawei p30 pro",
+    "link": "#",
+    "color": "red"
+  },
+  {
+    "id": "12",
+    "img": "https://webdev.rv-designs.nl/images/phones/iphone1.png",
+    "name": "Galaxy S20",
+    "link": "#",
+    "color": "green"
+  },
+  {
+    "id": "13",
+    "img": "https://webdev.rv-designs.nl/images/phones/iphone2.png",
+    "name": "Iphone 12",
+    "link": "#",
+    "color": "pink"
+  },
+  {
+    "id": "14",
+    "img": "https://webdev.rv-designs.nl/images/phones/iphone3.png",
+    "name": "Samsung A12",
+    "link": "#",
+    "color": "purple"
+  },
+  {
+    "id": "15",
+    "img": "https://webdev.rv-designs.nl/images/phones/iphone4.png",
+    "name": "Mate 20 pro",
+    "link": "#",
+    "color": "gray"
+  }
+]
